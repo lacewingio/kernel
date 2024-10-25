@@ -1,2 +1,2 @@
 # kernel
-Lacewing is an opinionated, hypermodern framework for building web applications in Go. 
+Lacewing is an opinionated framework for building web applications in Go. 
